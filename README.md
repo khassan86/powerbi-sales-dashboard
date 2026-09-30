@@ -14,11 +14,11 @@ Project Files & Data:
 
 File Description:
 
-1- Group 1 - DashBoard (final Version).pbix: The Power BI dashboard file.
-2- Group-1 last.xlsx: Core data source - Fact_Transactions plus Dim_Customer, Dim_Product, Dim_Employee, Dim_Date, and Bridge_Emp_Customer tables.
-3- TARGET SHEET unpivot.xlsx: Monthly sales targets by employee and customer.
-4- LikeCard_Sales_Documentation.docx: Full write-up of the data model, cleaning steps, and DAX measures.
-5- likecard_dashboard_infographic.jpg: Static preview image (Project Infographic) of the dashboard.
-6- README.md: A single descriptive paragraph; this is the file the task's change will target.
+- Group 1 - DashBoard (final Version).pbix: The Power BI dashboard file.
+- Group-1 last.xlsx: Core data source - Fact_Transactions plus Dim_Customer, Dim_Product, Dim_Employee, Dim_Date, and Bridge_Emp_Customer tables.
+- TARGET SHEET unpivot.xlsx: Monthly sales targets by employee and customer.
+- LikeCard_Sales_Documentation.docx: Full write-up of the data model, cleaning steps, and DAX measures.
+- likecard_dashboard_infographic.jpg: Static preview image (Project Infographic) of the dashboard.
+- README.md: A single descriptive paragraph; this is the file the task's change will target.
 
 **Data coverage:** Both the transaction data and target data cover **January 2023 – December 2025** (36 months).
